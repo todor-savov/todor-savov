@@ -19,12 +19,10 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
            
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
 
-  <img src="https://github.com/user-attachments/assets/0c32dd00-f233-4498-855c-291118a2c5cb" />
+  <img src="https://github.com/user-attachments/assets/39878777-d99f-4132-9a81-c587905e2faf" />
 
-
-
+ 
 
 
 </p>
