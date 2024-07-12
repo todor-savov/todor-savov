@@ -21,7 +21,7 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
 
-  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=50&id=NfbyHexzVEDk&format=png&color=000000" />
 
 
 
