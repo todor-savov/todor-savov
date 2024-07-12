@@ -4,7 +4,7 @@
 
 ![Banner](https://yourbannerimageurl.com)
 
-## 👋 About Me
+## 👋 Who am I and what do I do
 
 I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on building React applications with Google Firebase.
 
