@@ -6,12 +6,11 @@
 
 ## 👋 About Me
 
-I'm [Your Name], a [Your Profession] from [Your Location]. I love working on open source projects and contributing to the developer community.
+I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on building React applications with Google Firebase.
 
-- 🌱 Currently learning: [New Technology]
-- 💼 Working on: [Your Project]
-- 🎮 Hobbies: [Your Hobbies]
-- 💬 Ask me about: [Your Expertise]
+- 🌱 Currently learning: TypeScript
+- 💼 Working on: Expense tracking app with React/TypeScript/Google Firebase
+- 🎮 Hobbies: Mountain trips, Travel & Sightseeing, Soccer/Basketball
 
 ## 🚀 Skills
 
