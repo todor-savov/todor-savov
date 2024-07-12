@@ -10,16 +10,19 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 
 - 🌱 **Currently learning**: TypeScript
 - 💼 **Working on**: Expense tracking app with React/TypeScript/Google Firebase
-- 🎮 **Hobbies**: Mountain trips, Travel & Sightseeing, Soccer/Basketball
+- 🎮 **Hobbies**: Travel & Sightseeing, Soccer/Basketball, History books
 
 ## 🚀 Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+           
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="50"/>
+</p>
 
-
-## 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=todor-savov&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=todor-savov&show_icons=true&theme=dark)
