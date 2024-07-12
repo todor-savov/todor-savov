@@ -13,26 +13,16 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 - 🎮 **Hobbies**: Travel & Sightseeing, Soccer/Basketball, History books
 
 ## 🚀 Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
            
 <p align="left">
-
   <img src="https://github.com/user-attachments/assets/3cf07acf-7b90-4327-b5b2-cfd1657b2030" />
-
   <img src="https://github.com/user-attachments/assets/cbdf477a-69c2-4793-aaab-70a9c38573fa" />
+  <img src="https://github.com/user-attachments/assets/06bccd72-eb82-44d0-b7a2-789629d58312" />
 
 
+ 
 
-
-
-
-
-
-
-
+ 
 
 
 </p>
