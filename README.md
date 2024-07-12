@@ -8,9 +8,9 @@
 
 I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on building React applications with Google Firebase.
 
-- 🌱 Currently learning: TypeScript
-- 💼 Working on: Expense tracking app with React/TypeScript/Google Firebase
-- 🎮 Hobbies: Mountain trips, Travel & Sightseeing, Soccer/Basketball
+- 🌱 **Currently learning**: TypeScript
+- 💼 **Working on**: Expense tracking app with React/TypeScript/Google Firebase
+- 🎮 **Hobbies**: Mountain trips, Travel & Sightseeing, Soccer/Basketball
 
 ## 🚀 Skills
 
