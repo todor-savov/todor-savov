@@ -20,9 +20,11 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
            
 <p align="left">
 
-  <img src="https://github.com/user-attachments/assets/39878777-d99f-4132-9a81-c587905e2faf" />
+  <img src="https://github.com/user-attachments/assets/562d2fbd-542c-4534-85d7-0184a8eeeed1" />
 
- 
+
+
+
 
 
 </p>
