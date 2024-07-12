@@ -36,6 +36,6 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:todor.savov@abv.bg)
 
  
