@@ -29,7 +29,6 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 ## 📈 GitHub Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=todor-savov&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=todor-savov&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=todor-savov&layout=compact&theme=dark)
 
 ## 📫 Contact Me
