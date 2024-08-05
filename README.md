@@ -26,12 +26,17 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
   <img src="https://github.com/user-attachments/assets/84bbafac-0629-4867-838f-ca46176547f2" />
 </p>
 
-## 📈 GitHub Statistics
+## 📈 My GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=todor-savov&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=todor-savov&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=todor-savov&theme=react-dark&custom_title=My%20GitHub%20Contributions%20During%20Last%20Month&color=FF69B4)
-
+<a href="https://github.com/todor-savov/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todor-savov&theme=radical" />
+</a>
+<a href="https://github.com/todor-savov/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=todor-savov&layout=donut&theme=radical" />
+</a>
+<a href="https://github.com/todor-savov/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=todor-savov&theme=react-dark&custom_title=My%20GitHub%20Contributions%20During%20Last%20Month&color=FF69B4" />
+</a>
 
 ## 📫 Contact Me
 
