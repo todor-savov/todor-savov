@@ -24,7 +24,7 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-##📊 My GitHub Statistics
+## 📊 My GitHub Statistics
 
 <a href="https://github.com/todor-savov/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todor-savov&theme=radical" />
