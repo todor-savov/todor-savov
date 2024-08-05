@@ -1,16 +1,17 @@
-## Hi everyone! 👋
+## Hi everyone, it's Todor (Toshko)! 👋
 
-# Welcome to My GitHub Profile!
+# It is a pleasure to welcome you to My GitHub Profile!
 
-## 👋 Who am I and what do I do
+## Who am I and what do I do
 
-I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on building React applications with Google Firebase.
+Hello! I'm Todor, a JavaScript developer from Plovdiv, Bulgaria, with a passion for building dynamic web applications. I specialize in creating React applications, leveraging Google Firebase to deliver efficient and scalable solutions. Currently, I'm enhancing my skills by learning TypeScript and working on an expense tracking app using React and Firebase. Outside of coding, I enjoy traveling and sightseeing, playing soccer and basketball, and diving into history books. My journey from a technical support analyst to a developer reflects my determination and love for creativity. 
+
+Feel free to view and download my resume [here](https://github.com/todor-savov/todor-savov/blob/master/TodorSavovResume.pdf).
+
 
 - 🌱 **Currently learning**: TypeScript
 - 💼 **Working on**: Expense tracking app with React/TypeScript/Google Firebase
 - 🎮 **Hobbies**: Travel & Sightseeing, Soccer/Basketball, History books
-
-You can view and download my resume [here](https://github.com/todor-savov/todor-savov/blob/master/TodorSavovResume.pdf).
 
 ## 📬 Contact Me
 
