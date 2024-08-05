@@ -13,17 +13,16 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
 
 ## 🚀 Skills
            
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/3cf07acf-7b90-4327-b5b2-cfd1657b2030" />
-  <img src="https://github.com/user-attachments/assets/cbdf477a-69c2-4793-aaab-70a9c38573fa" />
-  <img src="https://github.com/user-attachments/assets/06bccd72-eb82-44d0-b7a2-789629d58312" />
-  <img src="https://github.com/user-attachments/assets/743d8181-1509-4505-bfd9-a1f3686fac1d" />
-  <img src="https://github.com/user-attachments/assets/1992eb30-225c-41a3-94ba-ad157d8976ff" />
-  <img src="https://github.com/user-attachments/assets/d9d3505f-bd17-4c26-9e00-e4249a84ded7" />
-  <img src="https://github.com/user-attachments/assets/84e2d4a8-a073-486d-be7c-b303b9e44521" />
-  <img src="https://github.com/user-attachments/assets/01ea4a68-f7d4-4b9d-bcae-4b1a59eeb2d7" />
-  <img src="https://github.com/user-attachments/assets/84bbafac-0629-4867-838f-ca46176547f2" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ## 📈 My GitHub Statistics
 
