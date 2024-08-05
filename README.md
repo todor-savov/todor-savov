@@ -36,9 +36,7 @@ I'm Todor, a JavaScript developer from Plovdiv, Bulgaria. I mainly focus on buil
   <img height=300 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=todor-savov&theme=react-dark&custom_title=My%20GitHub%20Contributions%20During%20Last%20Month&color=FF69B4" />
 </a>
 
-## 📫 Contact Me
+## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/todor-savov-4a14253b)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:todor.savov@abv.bg)
-
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/todor-savov-4a14253b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:todor.savov@abv.bg)
