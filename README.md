@@ -2,7 +2,6 @@
 
 # Welcome to My GitHub Profile!
 
-![Banner](<img src="https://avatars.githubusercontent.com/u/156669807?v=4" alt="profile-logo" />)
 
 ## 👋 Who am I and what do I do
 
