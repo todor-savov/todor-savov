@@ -1,6 +1,5 @@
 ## Hi everyone, it's Todor (Toshko)! 👋
-
-# It is a pleasure to welcome you to My GitHub Profile!
+It is a pleasure to welcome you to My GitHub Profile!
 
 ## Who am I and what do I do
 
