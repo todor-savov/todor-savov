@@ -3,10 +3,11 @@ It is a pleasure to welcome you to My GitHub Profile!
 
 ## Who am I and what do I do
 
-I am a JavaScript developer from Plovdiv, Bulgaria, with a passion for building dynamic web applications. I specialize in creating React applications, leveraging Google Firebase to deliver efficient and scalable solutions. Currently, I'm enhancing my skills by learning TypeScript and working on an expense tracking app using React and Firebase. Outside of coding, I enjoy traveling and sightseeing, playing soccer and basketball, and diving into history books. My journey from a technical support analyst to a developer reflects my determination and love for creativity. 
+I am a JavaScript developer from Plovdiv, Bulgaria, with a passion for building dynamic web applications. I specialize in creating React applications, leveraging Google Firebase to deliver efficient and scalable solutions. In addition to frontend technologies like React and JavaScript, I am also familiar with backend programming, including PHP and Java. Currently, I'm enhancing my skills by learning TypeScript and working on an expense tracking app using React and Firebase.
+
+Outside of coding, I enjoy traveling and sightseeing, playing soccer and basketball, and diving into history books. My journey from a technical support analyst to a developer reflects my determination and love for creativity.
 
 Feel free to view and download my resume [here](https://github.com/todor-savov/todor-savov/blob/master/TodorSavovResume.pdf).
-
 
 - 🌱 **Currently learning**: TypeScript
 - 💼 **Working on**: Expense tracking app with React/TypeScript/Google Firebase
